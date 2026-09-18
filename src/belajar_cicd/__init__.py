@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from belajar-cicd!")
+    print("test pull request ci")
